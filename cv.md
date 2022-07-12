@@ -60,6 +60,7 @@
   
   **Books:**
  * Head First HTML and CSS by Elisabeth Robson, Eric Freeman
+  ---
 ## Languages
 
 * Russian - Native
