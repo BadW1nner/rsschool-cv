@@ -11,8 +11,8 @@
 * **Telegramm:** [BadW1nner](https://t.me/rainbowsaan)
 
 ---
-  ## About Me
-  
+## About Me
+
    **Hello!** I am 25 years old, I work at the same type of work, where there is no goal for development in life. I liked the principle of the front-end developer. I like learning new information and exercising my brain on new tasks. I want to get a new stage in my life, which I am sure will lead me to the desired results.
   **Such as:**
   1. **Travel**
@@ -23,7 +23,7 @@
    **and much more...**
 
 ---
-   ## Skills
+ ## Skills
 
 * HTML5, CSS3
 * Git, GitHub
