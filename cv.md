@@ -1,6 +1,6 @@
 # Malikov Sergey
 
----
+
 ## My contact info
 ---
 
@@ -24,7 +24,7 @@
 
 ---
    ## Skills
----
+
 * HTML5, CSS3
 * Git, GitHub
 * VS Code
@@ -32,7 +32,7 @@
 
 ---
 ## Code Example 
----
+
 ```
 <!DOCTYPE html>
 <html>
@@ -51,7 +51,7 @@
 
 ---
 ## Education
----
+
 **Courses:**
  * HTML Academy: Basics of HTML and CSS
  * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
@@ -62,6 +62,6 @@
 
 ---
   ## Languages
-  ---
+  
   * Russian - Native
   * English - Intermediate B1
