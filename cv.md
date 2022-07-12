@@ -62,7 +62,7 @@
  * Head First HTML and CSS by Elisabeth Robson, Eric Freeman
 
 ---
-  ## Languages
-  
-  * Russian - Native
-  * English - Intermediate B1
+## Languages
+
+* Russian - Native
+* English - Intermediate B1
