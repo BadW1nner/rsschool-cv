@@ -26,7 +26,7 @@
 ## Skills
 
 
-* HTML5, CSS3
+* HTML5, CSS3, JavaScript
 * Git, GitHub
 * VS Code
 * Adobe Photoshop, Adobe Premiere Pro 
