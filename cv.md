@@ -52,7 +52,7 @@ function noSpace(x) {
 
 **Courses:**
  * HTML Academy: Basics of HTML and CSS
- * RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+ * RS Schools Course «JavaScript/Front-end. Stage 1»  (in progress)
  * Interactive course JavaScript - https://ru.code-basics.com/
  * JavaScript basic course "Bogdan Stashchuk" - www.udemy.com
   ---
